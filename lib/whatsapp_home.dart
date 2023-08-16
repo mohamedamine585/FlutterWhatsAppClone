@@ -72,7 +72,7 @@ class _WhatsAppHomeState extends State<WhatsAppHome>
       ),
       floatingActionButton: showFab
           ? FloatingActionButton(
-              backgroundColor: Theme.of(context).accentColor,
+              backgroundColor: new Color(0xff25D366),
               child: Icon(
                 Icons.message,
                 color: Colors.white,
